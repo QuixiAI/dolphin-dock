@@ -19,7 +19,7 @@ Dolphin Dock is a Google Chrome Extension designed to provide contextual assista
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/cognitivecomputations/dolphin-dock.git 
+    git clone https://github.com/QuixiAI/dolphin-dock.git 
     cd dolphin-dock
     ```
 2.  **Install dependencies:**
